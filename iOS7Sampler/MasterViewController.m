@@ -65,7 +65,7 @@
 
                    // 120fps Video Recording
                    @{kItemKeyTitle: @"120 fps SLO-MO video recording",
-                     kItemKeyDescription: @"SLO-MO video recorder using AVFoundation. It works with 120fps on iPhone5s.",
+                     kItemKeyDescription: @"SLO-MO video recorder using AVFoundation. It works with 120fps on iPhone5s.abc",
                      kItemKeyClassPrefix: @"SloMoVideoRecord",
                      },
                    
